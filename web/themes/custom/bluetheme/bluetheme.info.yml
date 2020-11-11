@@ -1,0 +1,15 @@
+name: Blue Theme
+type: theme
+description: The best Theme
+core_version_requirement: 9.x
+base theme: stable
+
+libraries:
+  - bluetheme/global
+
+regions:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'
+  sidebar_left: 'SideBar Left'
+  message: 'Message'
